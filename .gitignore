@@ -213,3 +213,4 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+stm32f4-wifi/stm32f4-wifi.elf.xcodeproj/project.pbxproj
